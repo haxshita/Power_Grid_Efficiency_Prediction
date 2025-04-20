@@ -20,5 +20,5 @@ The dataset (`data1.csv`) is a binary classification subset from power system si
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/power-grid-prediction.git
-   cd power-grid-prediction
+   git clone https://github.com/haxshita/Power_Grid_Efficiency_Prediction.git
+   cd Power_Grid_Efficiency_Prediction
